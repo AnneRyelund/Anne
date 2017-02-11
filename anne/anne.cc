@@ -46,7 +46,7 @@ using namespace oomph;
 namespace Global_Parameters
 {
  /// Reynolds number
- double Re=100.0;
+ double Re=200.0;
 
  /// x position of vortex
  double X_vortex=0.0;
